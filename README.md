@@ -2,7 +2,7 @@
 
 CS graduate (Lorma Colleges, 2026) building full-stack web apps and RAG systems. Based in La Union, Philippines.
 
-Currently improving [Crux](https://project-apt.vercel.app). Open to software engineering roles in La Union or Metro Manila.
+Currently improving [Crux](https://project-apt.vercel.app). Open to remote, hybrid, or onsite software engineering roles in La Union or Metro Manila.
 
 **Stack:** Python, TypeScript, Go · React, Vue · FastAPI, Express · PostgreSQL, pgvector · LangChain, Gemini
 
