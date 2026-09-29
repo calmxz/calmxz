@@ -15,3 +15,7 @@ Currently improving [Crux](https://project-apt.vercel.app). Open to remote, hybr
 ## Experience
 
 - **DOST Region 1, IT Intern (2025):** Built JWT authentication with role-based access and an interactive map of MSME project sites for the SETUP program's tracking platform (PERN stack).
+
+## Contact
+
+alverdeedwardandrew@gmail.com · [LinkedIn](https://www.linkedin.com/in/edward-andrew-alverde-70b258279)
