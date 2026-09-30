@@ -1,4 +1,4 @@
-# Hi, I'm Andrew
+# Hi, I'm Edward Andrew
 
 CS graduate (Lorma Colleges, 2026) building full-stack web apps and RAG systems. Based in La Union, Philippines.
 
