@@ -14,7 +14,7 @@ Currently improving [Crux](https://project-apt.vercel.app). Open to remote, hybr
 
 ## Experience
 
-- **DOST Region 1, IT Intern (2025):** Built JWT authentication with role-based access and an interactive map of MSME project sites for the SETUP program's tracking platform (PERN stack).
+- **DOST Region 1, Full Stack Developer Intern (2025):** Built JWT authentication with role-based access and an interactive map of MSME project sites for the SETUP program's tracking platform (PERN stack).
 
 ## Contact
 
